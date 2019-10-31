@@ -6,18 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="http-server (1)" />
         <module name="projectMangement" />
+        <module name="JavaEksamenpgr203" />
         <module name="http-server" />
-        <module name="http-server (2)" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="http-server" target="11" />
-      <module name="http-server (1)" target="11" />
-      <module name="http-server (2)" target="11" />
-      <module name="JavaEksamen-pgr203" target="1.5" />
-      <module name="projectMangement" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>

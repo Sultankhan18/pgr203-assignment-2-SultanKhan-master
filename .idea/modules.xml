@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/pgr203-assignment-2-SultanKhan/http-server.iml" filepath="$PROJECT_DIR$/pgr203-assignment-2-SultanKhan/http-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgr203-assignment-2-SultanKhan/http-server (1).iml" filepath="$PROJECT_DIR$/pgr203-assignment-2-SultanKhan/http-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgr203-assignment-2-SultanKhan/http-server (2).iml" filepath="$PROJECT_DIR$/pgr203-assignment-2-SultanKhan/http-server (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pgr203-assignment-2-SultanKhan-master.iml" filepath="$PROJECT_DIR$/.idea/pgr203-assignment-2-SultanKhan-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEksamenpgr203/pgr203-assignment-3-husali18/projectMangement.iml" filepath="$PROJECT_DIR$/JavaEksamenpgr203/pgr203-assignment-3-husali18/projectMangement.iml" />
     </modules>
   </component>
 </project>
